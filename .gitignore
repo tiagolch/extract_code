@@ -1,0 +1,18 @@
+# Arquivos e diretórios gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Diretório de desenvolvimento
+venv/
+
+# Diretório de produção
+site-packages/
+
+# Arquivos e diretórios gerados pelo Flask
+*.log
+*.sqlite
+
+# Arquivos de cache e teste
+*.pytest_cache/
