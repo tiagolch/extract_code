@@ -14,7 +14,7 @@ pip install -r requirements.txt
 Para executar o aplicativo, use o seguinte comando:
 
 ```bash
-python app.py
+python main.py
 ```
 
 O aplicativo estará disponível em http://localhost:8000/.
